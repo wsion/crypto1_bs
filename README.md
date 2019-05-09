@@ -1,6 +1,6 @@
 Bitsliced Crypto-1 brute-forcer
 ===============================
-    
+      
 A pure C(99) implementation of the [Crypto-1 cipher](https://en.wikipedia.org/wiki/Crypto-1) using the method of [bitslicing](https://en.wikipedia.org/wiki/Bit_slicing), which uses GNU vector extensions to be portable across SSE/AVX/AVX2 supporting architectures while offering the highest amount of possible parallelism.
 
 
